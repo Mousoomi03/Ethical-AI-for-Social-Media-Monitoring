@@ -15,14 +15,14 @@ Focus on fairness, explainability, and class imbalance handling
 **Base Model:** RoBERTa (from Hugging Face Transformers)  
 **Framework:** PyTorch  
 **Training:** Weighted loss function to handle class imbalance  
-**Evaluation Metrics:**  
+**Evaluation Metrics:**   
 Accuracy: 91.67%  
 Precision: 1.00  
 Recall: 0.83  
 F1-Score: 0.91  
 AUC-ROC: 0.92
 
-**🛠️ Tech Stack**
+**🛠️ Tech Stack**  
 Python  
 PyTorch  
 Hugging Face Transformers  
